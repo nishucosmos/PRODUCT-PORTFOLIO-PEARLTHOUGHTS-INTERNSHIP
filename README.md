@@ -1,9 +1,7 @@
 # PRODUCT-PORTFOLIO-PEARLTHOUGHTS-INTERNSHIP
 
-# Product Portfolio – PearlThoughts Internship
 
 **Role:** Project Management Intern (Product Domain)
-**Duration:** Feb 2025 – Mar 2025
 **Tools:** Jira, Figma, Agile (MoSCoW & RICE), QA Frameworks
 
 ---
